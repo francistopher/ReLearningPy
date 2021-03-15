@@ -8,4 +8,13 @@ print('Hello World!')
 
 ```
 
+# Comments
 
+The pound sign '#' is special. It let's you write as much useless characters in your source code. And when you execute the script, it does nothing! Well its used by programmers who forget what they wrote.
+
+```python
+
+# The following line prints Hello
+print('Hello')
+
+```
