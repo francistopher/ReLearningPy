@@ -4,4 +4,4 @@ Repository to teach how the python from the amazon works. I'm gonna try to be in
 
 | Section | About |
 | ------- | ----- |
-| [one](/01) | Print, Comments |
+| [one](/01) | Numbers, Strings, Lists |
