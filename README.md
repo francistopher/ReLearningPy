@@ -1,7 +1,15 @@
-# My Python Lessons
+#ReLearning Python
 
-Repository to teach how the python from the amazon works. I'm gonna try to be interesting. You have to google how to setup your workstation to execute python because not everyone has a PC.
+Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 
-| Section | About |
+| Section | Highlights |
 | ------- | ----- |
-| [03](/03) | Numbers, Strings, Lists |
+| [Informal Introduction](/03) | numbers, strings, lists |
+| [Control Flow](/04) | if, for, functions, arguments, lambda, docs |
+| [Data Structures](/05) | more on lists, tuples, sequences, sets, dictionaries|
+| [Modules](/06) | modules, standard modules, packages |
+| [Input and Output](/07) | format strings, reading files, writing files, json |
+| [Errors and Exceptions](/08) | syntax, exceptions, handling, predefined, raising, clean-up |
+| [Classes](/09) | classes, scope, namespaces, inheritance, interators, generators |
+
+more is being planned

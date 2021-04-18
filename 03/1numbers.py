@@ -21,7 +21,7 @@ print ('\n17 % 3 = ', sum)
 print("% returns the remainder of the division")
 
 sum = 5 ** 2
-print('\n 5 ** 2 = ', sum)
+print('\n5 ** 2 = ', sum)
 
 sum = 2 ** 7
 print('\n2 ** 7 = ', sum)
