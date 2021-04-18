@@ -2,6 +2,7 @@
 
 Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 
+# Contents :meat_on_bone: 
 | Section | Highlights | Done |
 | ------- | ----- | ---- |
 | [Informal Introduction](/03) | numbers, strings, lists | :heavy_check_mark: |
@@ -13,3 +14,7 @@ Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 | [Classes](/09) | classes, scope, namespaces, inheritance, interators, generators | :heavy_multiplication_x: |
 
 more is being planned
+
+# Version
+
+Python 3.9.4
