@@ -3,7 +3,7 @@
 Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 
 | Section | Highlights | Done |
-| ------- | ----- |
+| ------- | ----- | ---- |
 | [Informal Introduction](/03) | numbers, strings, lists | :heavy_check_mark: |
 | [Control Flow](/04) | if, for, functions, arguments, lambda, docs | :heavy_multiplication_x: |
 | [Data Structures](/05) | more on lists, tuples, sequences, sets, dictionaries| :heavy_multiplication_x: |
