@@ -1,6 +1,6 @@
 print("# the following is the basic structure of a function")
 print("# also i'll introduce docstrings for functions")
-print("# along with the syntax to invoke it")
+print("# along with the syntax to invoke the function")
 print("""
 def func_name(parameters):
     '''This a docstring'''
