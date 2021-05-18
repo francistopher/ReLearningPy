@@ -22,6 +22,7 @@ Desktop apps, still deciding on the framework. Not going to use PyQt, screw your
 | Basic 4-Function Calculator | Calculate Basic | Introduction, Control Flow | :heavy_multiplication_x: |
 | The Amazon Warehouse | Basic Algorithms Visualizer | Intro, Control Flow, Data Structures, Classes | :heavy_multiplication_x: |
 | Tanks Trouble | You've probably played this game in K-12 | ... | :heavy_multiplication_x: |
+| Tweet Generator | Generates tweets using "Artificial Intelligence" | ... | :heavy_multiplication_x: |
 
 more is being planned
 
