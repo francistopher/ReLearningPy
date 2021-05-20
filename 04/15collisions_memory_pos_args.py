@@ -1,4 +1,26 @@
-print("# You'll have an error if you have a positional argument 'name'")
+print("# so you want to iterate and modify over a collection?")
+print("# its suggested to loop over a copy of the collection to evade 'collisions'")
+print("# or create a new one")
+
+print("""
+pets_ages = {'dog':3, 'cat':2, 'raccoon':4}
+print(pets_ages)
+for pet, age in pets_ages.copy().items():
+    if age > 2:
+        del pets_ages[pet]
+
+print(pets_ages) # output below
+""")
+pets_ages = {'dog':3, 'cat':2, 'raccoon':4}
+print(pets_ages)
+for pet, age in pets_ages.copy().items():
+    if age > 2:
+        del pets_ages[pet]
+
+print(pets_ages)
+
+
+print("\n# You'll have an error if you have a positional argument 'name'")
 print("# and a **variable with 'name' as a key, the multiple 'name' is confusing")
 
 print("""
