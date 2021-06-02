@@ -1,8 +1,9 @@
-# ReLearning Python
+# MIT 6.0001 Intro to CS and Programming in Python + Extra
 
-Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
+Reevaluating the Python from tip to tip. Run the scripts to print basic lessons. Includes my progress through MIT OpenCourse Ware's 6.0001.
 
-# Contents :meat_on_bone: 
+## Basic Lessons
+
 | Section | Highlights | Done |
 | ------- | ----- | ---- |
 | [Intro](/03) | numbers, strings, lists | :heavy_check_mark: |
@@ -13,19 +14,10 @@ Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 | [Errors and Exceptions](/08) | syntax, exceptions, handling, predefined, raising, clean-up | :heavy_multiplication_x: |
 | [Classes](/09) | classes, scope, namespaces, inheritance, interators, generators | :heavy_multiplication_x: |
 
-# Application :hammer_and_wrench:
-
-Desktop apps, still deciding on the framework. Not going to use PyQt, screw your licenses.
-
-| Project | About | Done |
-| ------- | ----- | ---- |
-| Basic 4-Function Calculator | Calculate Basic | :heavy_multiplication_x: |
-| The Amazon Warehouse | Basic Algorithms Visualizer | :heavy_multiplication_x: |
-| Tanks Trouble | You've probably played this game in K-12 | :heavy_multiplication_x: |
-| Tweet Generator | Generates tweets using "Artificial Intelligence" | :heavy_multiplication_x: |
+## Problem Sets
 
 more is being planned
 
-# Version
+## Version
 
-Python 3.9
+Python 3.9+
