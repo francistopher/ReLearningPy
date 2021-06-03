@@ -16,19 +16,13 @@ Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 | [Errors and Exceptions](/bs/08) | syntax, exceptions, handling, predefined, raising, clean-up | :heavy_multiplication_x: |
 | [Classes](/bs/09) | classes, scope, namespaces, inheritance, interators, generators | :heavy_multiplication_x: |
 
-## MIT Course
+## Course Readings
 
-### Readings
-
-Here are the assigned [readings](/mit/readings.PNG) from the book below. 
-
-Even though it's based of an older version of Python, I'm going to read it entirely.
-
-Suit yourself.
+Here are the assigned [readings](/mit/readings.PNG) from the book below. Even though it's based of an older version of Python, I'm going to read it entirely. Suit yourself.
 
 [Introduction to Computation and Programming Using Python (With Application to Understanding Data)](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629/ref=sr_1_3?dchild=1&keywords=introduction+to+computer+science+and+programming+using+python&qid=1622683060&sr=8-3)
 
-### Lecture Contents
+## Lecture Contents
 
 Includes the lecture, slides, and code.
 
@@ -47,7 +41,7 @@ Includes the lecture, slides, and code.
 | [11](/mit/lsc/lec11) | Understanding Programming Efficiency 2 |
 | [12](/mit/lsc/lec12) | Searching and Sorting Algorithms |
 
-### Assignments 
+## Course Assignments 
 
 Includes practice sets and corresponding python files
 
