@@ -4,7 +4,7 @@ import matho
 
 print("\nimport matho # matho.py exists in same directory")
 
-print("\n# Now you can access anything named in its global scope directly!")
+print("\n# Now you can indirectly access anything named in its global scope!")
 
 print("""
 matrix = matho.get_2d_matrix(rows=2, columns=3)
@@ -86,3 +86,4 @@ import matho as meth
 matrix = meth.get_2d_matrix(rows=2, columns=3)
 
 print(matrix)
+
