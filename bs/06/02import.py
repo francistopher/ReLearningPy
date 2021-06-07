@@ -61,3 +61,13 @@ print("Que Paso? Nada!")
 print("\n# Seriously, when quotes was imported, the interpreter searched for a built in module with that name")
 print("# Nothing found, it then searched for a file named quotes.py in a list of directories")
 print("# Which was given by the variable sys.path")
+
+print("\n# If you look at the directory this file is in, you are going to see the directory __pycache__")
+
+print("\n# Where you'll find a compiled version of each module under the name module.version.pyc")
+
+
+
+
+
+
