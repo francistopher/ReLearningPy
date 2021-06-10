@@ -12,7 +12,7 @@ Reevaluating the Python from tip to tip. Run the scripts to print basic lessons.
 | [Control Flow](/bs/04) | if, for, functions, arguments, lambda, docs | :heavy_check_mark: |
 | [Data Structures](/bs/05) | more on lists, tuples, sequences, sets, dictionaries| :heavy_check_mark: |
 | [Modules](/06) | modules, standard modules, packages | :heavy_check_mark: |
-| [Input and Output](/bs/07) | format strings, reading files, writing files, json | :x: |
+| [Input and Output](/bs/07) | format strings, reading files, writing files, json | :heavy_check_mark: |
 | [Errors and Exceptions](/bs/08) | syntax, exceptions, handling, predefined, raising, clean-up | :x: |
 | [Classes](/bs/09) | classes, scope, namespaces, inheritance, interators, generators | :x: |
 
