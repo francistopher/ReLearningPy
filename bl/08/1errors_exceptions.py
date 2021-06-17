@@ -24,7 +24,7 @@ SyntaxError: invalid syntax
 print("# Exceptions are errors that are raised during execution with legal syntax, below is a classic error")
 
 print("""
-print("Python will execute this 1!")
+print("Python will execute this 1!") # output below
 
 print("Python will not execute this" + 1 + "!") # Error will be raised, uncomment to see for yourself
 """)
@@ -49,34 +49,34 @@ print("# clause is executed. If the try clause raises a different type of error,
 
 print("""
 try:
-    x = int(input("Enter 1"))
-    print("Python will not execute this" + x + "!")
+    x = int("1")
+    print("Python will execute this" + x + "!")
 except TypeError:
-    print("Python will not execute this 1!")
+    print("TypeError exception raised!")
 """)
 
 try:
-    x = int(input("Enter 1"))
-    print("Python will not execute this" + x + "!")
+    x = int("1")
+    print("Python will execute this" + x + "!")
 except TypeError:
-    print("Python will not execute this 1!")
+    print("TypeError exception raised!")
 
-print("\n# You can add as many except clauses to handle as many error for the given try clause")
+print("\n# You can add as many except clauses to handle as many errors for the given try clause")
 
 print("""
 try:
-    x = int(input("Enter 1"))
-    print("Python will not execute this" + x + "!")
+    x = int("one")
+    print("Python will execute this" + x + "!")
 except TypeError:
-    print("Python will execute this 1!")
+    print("TypeError exception raised!")
 except ValueError:
-    print("Python will execute this 1!")
+    print("ValueError exception raised!")
 """)
 
 try:
-    x = int(input("Enter 1"))
-    print("Python will not execute this" + x + "!")
+    x = int("one")
+    print("Python will execute this" + x + "!")
 except TypeError:
-    print("Python will execute this 1!")
+    print("TypeError exception raised!")
 except ValueError:
-    print("Python will execute this 1!")
+    print("ValueError exception raised!")
