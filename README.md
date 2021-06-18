@@ -1,37 +1,66 @@
 # ReLearning Python :snake:
 
-Reevaluating the Python from tip to tip. Run the scripts to print succinct lessons of Python.
+Going deeper into Python
 
-## Lessons based of Python Docs
+# Learning By Reading How To Do Python
 
-| My Lesson | About | Done |
+## Francisco's Interpretation of Official Python Docs 
+
+| My Py Docs Lesson | About | Done | 
 | ------- | ----- | ---- |
-| [Get Computer](/01.txt) | Get Computer | :heavy_check_mark: |
-| [Install Python](/02.txt) | Install Python | :heavy_check_mark: |
-| [Intro](/03) | numbers, strings, lists | :heavy_check_mark: |
-| [Control Flow](/04) | if, for, functions, arguments, lambda, docs | :heavy_check_mark: |
-| [Data Structures](/05) | more on lists, tuples, sequences, sets, dictionaries| :heavy_check_mark: |
-| [Modules](/06) | modules, standard modules, packages | :heavy_check_mark: |
-| [Input and Output](/07) | format strings, reading files, writing files, json | :heavy_check_mark: |
-| [Errors and Exceptions](/08) | syntax, exceptions, handling, predefined, raising, clean-up | :x: |
-| [Classes](/09) | classes, scope, namespaces, inheritance, interators, generators | :x: |
+| [Get Computer](dl/01.txt) | Get Computer | :heavy_check_mark: |
+| [Install Python](dl/02.txt) | Install Python | :heavy_check_mark: |
+| [Intro](dl/03) | numbers, strings, lists | :heavy_check_mark: |
+| [Control Flow](dl/04) | if, for, functions, arguments, lambda, docs | :heavy_check_mark: |
+| [Data Structures](dl/05) | more on lists, tuples, sequences, sets, dictionaries| :heavy_check_mark: |
+| [Modules](dl/06) | modules, standard modules, packages | :heavy_check_mark: |
+| [Input and Output](dl/07) | format strings, reading files, writing files, json | :heavy_check_mark: |
+| [Errors and Exceptions](dl/08) | syntax, exceptions, handling, predefined, raising, clean-up | :x: |
+| [Classes](dl/09) | classes, scope, namespaces, inheritance, interators, generators | :x: |
 
-## Lessons based of MIT 6.0001
+# Learning By Doing Python
 
-| MIT Lesson | About | Done? |
+## MIT 6.0001
+
+| Lesson | About | Assignment |
 | ------- | ----- | ----- |
-| [01](/lec/lec1) | Syntax, Semantics, Scalar Objects, Simple Operations, Expressions, Variables, Values | :x: |
-| [02](/lec/lec2) | String Object Type, Branching & Conditionals, Indentation, Iteration & Loops | :x: |
-| [03](/lec/lec3) | String Manipulation, Guess and Check Algorithms, Approximate Solutions, Bisection Method | :x: |
-| [04](/lec/lec4) | Structuring, Functions, Specifications, Keywords, Scope | :x: |
-| [05](/lec/lec5) | Compound Types, Aliasing, Mutability, Cloning | :x: |
-| [06](/lec/lec6) | Recursion, Dictionaries | :x: |
-| [07](/lec/lec7) | Testing, Debugging, Exceptions, Assertions | :x: |
-| [08](/lec/lec8) | Object Oriented Programming | :x: |
-| [09](/lec/lec9) | Classes & Inheritence | :x: |
-| [10](/lec/lec10) | Understanding Programming Efficiency 1 | :x: |
-| [11](/lec/lec11) | Understanding Programming Efficiency 2 | :x: |
-| [12](/lec/lec12) | Searching and Sorting Algorithms | :x: |
+| :one: | Syntax, Semantics, Scalar Objects, Simple Operations, Expressions, Variables, Values | |
+| :two: | String Object Type, Branching & Conditionals, Indentation, Iteration & Loops | |
+| :three: | String Manipulation, Guess and Check Algorithms, Approximate Solutions, Bisection Method | :x: |
+| :four: | Structuring, Functions, Specifications, Keywords, Scope | |
+| :five: | Compound Types, Aliasing, Mutability, Cloning | :x: |
+| :six: | Recursion, Dictionaries | |
+| :seven: | Testing, Debugging, Exceptions, Assertions | :x: |
+| :eight: | Object Oriented Programming | |
+| :nine: | Classes & Inheritence | :x: |
+| :one::zero: | Understanding Programming Efficiency 1 | :x: |
+| :one::one: | Understanding Programming Efficiency 2 | |
+| :one::two: | Searching and Sorting Algorithms | :x: |
+
+## Stanford CS 41
+
+| Lecture | About | Assignment |
+| ---------------- | ----- | ---------- |
+| Welcome to Python! | interactive interpreter, variables and types, numbers and booleans, strings and lists, string formatting, control flow, loops, and functions ||
+| Python Basics | comments, console I/O, and file I/O, running Python as a script, modules, imports, and virtual environments | |
+| Data Structures | dictionaries, tuples, and sets, enumerate, zip, comprehensions | |
+| Data Structures Lab | practice topics from the first three course lectures | :x: |
+| Object Oriented Python | namespaces and scope, the Python data model, class, objects, inheritance ||
+| Object Oriented Python Lab | practice topics from the previous lecture | |
+| Functions | return values, scope, and pass-by semantics, keyword arguments, variadic arguments, default arguments |
+| Functions Lab | practice topics from the previous lecture | :x: |
+| Python & the Web | query, parse, websites | |
+| Python & the Web Lab | practice topics from the previous lecture ||
+| Python & the Web, Continued | web app, Flask, deployment ||
+| Python & the Web, Continued Lab | practice topics from the previous lecture | |
+| Functional Programming | higher-order functions, map, filter, anonymous lambda functions, iterators, generator expressions, decorators ||
+| Functional Programming Lab | practice topics from the previous lecture ||
+| Standard Libraries | pdb, regex, customizable iterators, system-level interactions, temporal modules, file compression |
+| Standard Libraries Lab | practice topics from the previous lecture |:x:|
+| Third Party Packages | pypi.org, development, python packages ||
+| Third Party Packages Lab | rasberry pi car | :x: ||
+| Final Project Work | working on final project ||
+| Final Project | final project | :x: |
 
 ## Version
 
