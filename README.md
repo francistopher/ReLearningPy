@@ -15,7 +15,7 @@ Going deeper into Python
 | [Data Structures](dl/05) | more on lists, tuples, sequences, sets, dictionaries| :heavy_check_mark: |
 | [Modules](dl/06) | modules, standard modules, packages | :heavy_check_mark: |
 | [Input and Output](dl/07) | format strings, reading files, writing files, json | :heavy_check_mark: |
-| [Errors and Exceptions](dl/08) | syntax, exceptions, handling, predefined, raising, clean-up | :x: |
+| [Errors and Exceptions](dl/08) | syntax, exceptions, handling, predefined, raising, clean-up | :heavy_check_mark: |
 | [Classes](dl/09) | classes, scope, namespaces, inheritance, interators, generators | :x: |
 
 # Learning By Doing Python
