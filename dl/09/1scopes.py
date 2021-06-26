@@ -89,35 +89,4 @@ def christopher():
 christopher()
 print("After christopher() call:", hunger) # output below
 
-print("# Before you have an object, you must create a class. Before you have success,")
-print("# you must have a plan. Here's a basic structure of a class.")
-
-print("""
-class class_name:
-
-    class_attribute = 420
-
-    def class_function():
-        return 'class_function return'
-""")
-class class_name:
-
-    class_attribute = 420
-
-    def class_function():
-        return 'class_function return'
-
-print("# We can access these attributes and functions of the class from the global scope")
-
-print("""
-output = str(class_name.class_attribute)
-output += "\\n" + class_name.class_function()
-
-print(output) # output below
-""")
-
-output = str(class_name.class_attribute)
-output += "\n" + class_name.class_function()
-print(output)
-
 

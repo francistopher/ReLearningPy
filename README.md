@@ -2,11 +2,11 @@
 
 Going deeper into Python
 
-# Learning By Reading How To Do Python
+# ReLearning By Reading How To Do Python
 
-## Francisco's Interpretation of Official Python Docs 
+## My Interpretation of Official Python Docs 
 
-| My Py Docs Lesson | About | Done | 
+| Mini-Lesson | About | Done | 
 | ------- | ----- | ---- |
 | [Get Computer](dl/01.txt) | Get Computer | :heavy_check_mark: |
 | [Install Python](dl/02.txt) | Install Python | :heavy_check_mark: |
@@ -16,9 +16,9 @@ Going deeper into Python
 | [Modules](dl/06) | modules, standard modules, packages | :heavy_check_mark: |
 | [Input and Output](dl/07) | format strings, reading files, writing files, json | :heavy_check_mark: |
 | [Errors and Exceptions](dl/08) | syntax, exceptions, handling, predefined, raising, clean-up | :heavy_check_mark: |
-| [Classes](dl/09) | classes, scope, namespaces, inheritance, interators, generators | :x: |
+| [Classes](dl/09) | classes, scope, namespaces, inheritance, interators, generators | :heavy_check_mark: |
 
-# Learning By Doing Python
+# ReLearning By Doing Python
 
 ## MIT 6.0001
 
