@@ -44,7 +44,7 @@ Going deeper into Python
 | Welcome to Python! | interactive interpreter, variables and types, numbers and booleans, strings and lists, string formatting, control flow, loops, and functions ||
 | Python Basics | comments, console I/O, and file I/O, running Python as a script, modules, imports, and virtual environments | |
 | Data Structures | dictionaries, tuples, and sets, enumerate, zip, comprehensions | |
-| Data Structures Lab | practice topics from the first three course lectures | :x: |
+| Data Structures Lab | practice topics from the first three course lectures | [Assignment 0](/sf/as0) :x: |
 | Object Oriented Python | namespaces and scope, the Python data model, class, objects, inheritance ||
 | Object Oriented Python Lab | practice topics from the previous lecture | |
 | Functions | return values, scope, and pass-by semantics, keyword arguments, variadic arguments, default arguments |
