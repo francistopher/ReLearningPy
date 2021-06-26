@@ -1,12 +1,12 @@
-# ReLearning Python :snake:
+# ReLearning :snake:
 
 Going deeper into Python
 
-# ReLearning By Reading How To Do Python
+# ReLearning By Reading :snake:
 
-## My Interpretation of Official Python Docs 
+## My Interpretation of the Official Python Tutorial Docs
 
-| Mini-Lesson | About | Done | 
+| My Mini-Lessons | About | Done | 
 | ------- | ----- | ---- |
 | [Get Computer](dl/01.txt) | Get Computer | :heavy_check_mark: |
 | [Install Python](dl/02.txt) | Install Python | :heavy_check_mark: |
@@ -18,24 +18,24 @@ Going deeper into Python
 | [Errors and Exceptions](dl/08) | syntax, exceptions, handling, predefined, raising, clean-up | :heavy_check_mark: |
 | [Classes](dl/09) | classes, scope, namespaces, inheritance, interators, generators | :heavy_check_mark: |
 
-# ReLearning By Doing Python
+# ReLearning By Doing :snake:
 
 ## MIT 6.0001
 
 | Lesson | About | Assignment |
 | ------- | ----- | ----- |
-| :one: | Syntax, Semantics, Scalar Objects, Simple Operations, Expressions, Variables, Values | |
-| :two: | String Object Type, Branching & Conditionals, Indentation, Iteration & Loops | |
-| :three: | String Manipulation, Guess and Check Algorithms, Approximate Solutions, Bisection Method | :x: |
-| :four: | Structuring, Functions, Specifications, Keywords, Scope | |
-| :five: | Compound Types, Aliasing, Mutability, Cloning | :x: |
-| :six: | Recursion, Dictionaries | |
-| :seven: | Testing, Debugging, Exceptions, Assertions | :x: |
-| :eight: | Object Oriented Programming | |
-| :nine: | Classes & Inheritence | :x: |
-| :one::zero: | Understanding Programming Efficiency 1 | :x: |
-| :one::one: | Understanding Programming Efficiency 2 | |
-| :one::two: | Searching and Sorting Algorithms | :x: |
+| 1 | Syntax, Semantics, Scalar Objects, Simple Operations, Expressions, Variables, Values | |
+| 2 | String Object Type, Branching & Conditionals, Indentation, Iteration & Loops | |
+| 3 | String Manipulation, Guess and Check Algorithms, Approximate Solutions, Bisection Method | :x: |
+| 4 | Structuring, Functions, Specifications, Keywords, Scope | |
+| 5 | Compound Types, Aliasing, Mutability, Cloning | :x: |
+| 6 | Recursion, Dictionaries | |
+| 7 | Testing, Debugging, Exceptions, Assertions | :x: |
+| 8 | Object Oriented Programming | |
+| 9 | Classes & Inheritence | :x: |
+| 10 | Understanding Programming Efficiency 1 | :x: |
+| 11 | Understanding Programming Efficiency 2 | |
+| 12 | Searching and Sorting Algorithms | :x: |
 
 ## Stanford CS 41
 
