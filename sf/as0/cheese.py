@@ -1,5 +1,3 @@
-from math import floor
-
 """
 File: cheese.py
 -----------------
